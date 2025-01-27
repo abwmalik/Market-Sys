@@ -8,6 +8,14 @@ required_apps = ["frappe/erpnext"]
 # Apps
 # ------------------
 fixtures = ["Custom Field"]
+# fixtures = [
+#     {"dt": "Workspace", "filters": [["module", "=", "market"]]}
+# ]
+
+# website_route_rules = [
+#     {"from_route": "/Home", "to_route": "SuperMarket"}
+# ]
+
 # required_apps = [
 #     frappe
 # ]
