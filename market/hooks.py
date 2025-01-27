@@ -7,21 +7,21 @@ app_license = "mit"
 required_apps = ["frappe/erpnext"]
 # Apps
 # ------------------
-
+fixtures = ["Custom Field"]
 # required_apps = [
 #     frappe
 # ]
 
 # Each item in the list will be shown as an app in the apps page
-add_to_apps_screen = [
-	{
-		"name": "market",
-		"logo": "/assets/market/logo.png",
-		"title": "Market",
-		"route": "/market",
-		"has_permission": "market.api.permission.has_app_permission"
-	}
-]
+# add_to_apps_screen = [
+# 	{
+# 		"name": "market",
+# 		"logo": "/assets/market/logo.png",
+# 		"title": "Market",
+# 		"route": "/market",
+# 		"has_permission": "market.api.permission.has_app_permission"
+# 	}
+# ]
 
 # Includes in <head>
 # ------------------
