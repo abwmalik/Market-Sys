@@ -1,7 +1,7 @@
 {
  "charts": [],
  "content": "[{\"id\":\"nKKr6fjgjb\",\"type\":\"card\",\"data\":{\"card_name\":\"Ledgers\",\"col\":4}},{\"id\":\"p7NY6MHe2Y\",\"type\":\"card\",\"data\":{\"card_name\":\"Financial Statements\",\"col\":4}},{\"id\":\"3AK1Zf0oew\",\"type\":\"card\",\"data\":{\"card_name\":\"Profitability\",\"col\":4}},{\"id\":\"Q_hBCnSeJY\",\"type\":\"card\",\"data\":{\"card_name\":\"Other Reports\",\"col\":4}}]",
- "creation": "2025-01-27 20:51:47.616097",
+ "creation": "2025-01-29 00:16:32.842075",
  "custom_blocks": [],
  "docstatus": 0,
  "doctype": "Workspace",
@@ -10,7 +10,7 @@
  "icon": "file",
  "idx": 0,
  "indicator_color": "green",
- "is_hidden": 0,
+ "is_hidden": 1,
  "label": "\u0627\u0644\u062a\u0642\u0627\u0631\u064a\u0631 \u0627\u0644\u0645\u0627\u0644\u064a\u0629",
  "links": [
   {
@@ -260,18 +260,18 @@
    "type": "Link"
   }
  ],
- "modified": "2025-01-27 21:39:41.214774",
+ "modified": "2025-01-29 00:22:13.756423",
  "modified_by": "aadministrator@gmail.com",
  "module": "Market",
  "name": "\u0627\u0644\u062a\u0642\u0627\u0631\u064a\u0631 \u0627\u0644\u0645\u0627\u0644\u064a\u0629",
  "number_cards": [],
- "owner": "aadministrator@gmail.com",
+ "owner": "Administrator",
  "parent_page": "super market",
  "public": 1,
  "quick_lists": [],
  "restrict_to_domain": "",
  "roles": [],
- "sequence_id": 8.0,
+ "sequence_id": 14.1,
  "shortcuts": [],
  "title": "\u0627\u0644\u062a\u0642\u0627\u0631\u064a\u0631 \u0627\u0644\u0645\u0627\u0644\u064a\u0629"
 }

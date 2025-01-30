@@ -1,7 +1,7 @@
 {
  "charts": [],
  "content": "[{\"id\":\"rMMsfn2eB4\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Shortcuts</b></span>\",\"col\":12}},{\"id\":\"G984SgVRJN\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Purchase Invoice\",\"col\":3}},{\"id\":\"F9f4I1viNr\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Payment Entry\",\"col\":3}},{\"id\":\"1ArNvt9qhz\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Journal Entry\",\"col\":3}},{\"id\":\"4IBBOIxfqW\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Accounts Payable\",\"col\":3}},{\"id\":\"B7-uxs8tkU\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"jAcOH-cC-Q\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Reports &amp; Masters</b></span>\",\"col\":12}},{\"id\":\"7dj93PEUjW\",\"type\":\"card\",\"data\":{\"card_name\":\"Invoicing\",\"col\":4}},{\"id\":\"_Cb7C8XdJJ\",\"type\":\"card\",\"data\":{\"card_name\":\"Payments\",\"col\":4}},{\"id\":\"9yseIkdG50\",\"type\":\"card\",\"data\":{\"card_name\":\"Reports\",\"col\":4}}]",
- "creation": "2025-01-27 17:53:48.522754",
+ "creation": "2025-01-29 00:16:31.566591",
  "custom_blocks": [],
  "docstatus": 0,
  "doctype": "Workspace",
@@ -10,7 +10,7 @@
  "icon": "arrow-left",
  "idx": 0,
  "indicator_color": "",
- "is_hidden": 0,
+ "is_hidden": 1,
  "label": "\u0627\u0644\u0645\u0635\u0631\u0648\u0641\u0627\u062a \u0648\u0627\u0644\u0645\u062f\u0641\u0648\u0639\u0627\u062a",
  "links": [
   {
@@ -169,12 +169,12 @@
    "type": "Link"
   }
  ],
- "modified": "2025-01-27 21:39:18.924549",
+ "modified": "2025-01-29 00:25:45.834275",
  "modified_by": "aadministrator@gmail.com",
  "module": "Market",
  "name": "\u0627\u0644\u0645\u0635\u0631\u0648\u0641\u0627\u062a \u0648\u0627\u0644\u0645\u062f\u0641\u0648\u0639\u0627\u062a",
  "number_cards": [],
- "owner": "aadministrator@gmail.com",
+ "owner": "Administrator",
  "parent_page": "super market",
  "public": 1,
  "quick_lists": [],
